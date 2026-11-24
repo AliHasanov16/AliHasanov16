@@ -15,14 +15,10 @@ Logo ERP entegrasyonları, REST API'ler ve SignalR ile gerçek zamanlı sistemle
 
 ---
 
-## 🧑‍💻 Hakkımda
+## Hakkımda
 
-- 🎓 **Bursa Uludağ Üniversitesi**, Bilgisayar Programcılığı öğrencisiyim
-- 💼 **BRM Yazılım**'da 9 ay yazılım stajı yaptım (Eylül 2025 – Haziran 2026)
-- 🏭 Stajımda **Logo Tiger** veri tabanı üzerinde cari, fatura, sipariş ve ambar stok entegrasyonları geliştirdim
-- ⚡ Şu an **Blazor** ve **SignalR** ile gerçek zamanlı uygulamalar üzerine yoğunlaşıyorum
-- 🌍 İngilizce **B2** (sertifikalı)
-- 📍 Bursa, Türkiye
+- 9 ay yazılım stajı deneyimi (BRM Yazılım)
+- İngilizce B2
 
 ## 🛠️ Teknolojiler
 
